@@ -1,0 +1,6 @@
+[book]
+authors = ["Mohan Gupta"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Useful Tools Notebook"
